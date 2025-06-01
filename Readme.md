@@ -1,6 +1,6 @@
 
 ---
-
+# UCAS计算神经科学大作业
 # 基于 SNN 的 VQ-SVAE 实现 State Diffusion
 项目完成人：彭斌-第二十三组
 
